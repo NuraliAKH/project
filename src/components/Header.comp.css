@@ -1,0 +1,40 @@
+.header_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 30px 0 30px;
+}
+
+.languages {
+    display: flex;
+
+}
+
+.rus_language {
+    align-items: center;
+    display: flex;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.uzb_language {
+    align-items: center;
+    display: flex;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    opacity: 0.5;
+}
+.rus_language img{
+    margin: 0 8px 0 0;
+}
+.uzb_language img{
+    margin: 0 8px 0 32px;
+}
+.main_image{
+    margin: 25px 30px 0 30px;
+    
+}
